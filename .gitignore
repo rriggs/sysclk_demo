@@ -17,6 +17,7 @@
 #Do NOT ignore VHDL, Verilog, block diagrams or EDIF files.
 !*.vhd
 !*.v
+!*.sv
 !*.bd
 !*.edif
 #########
@@ -96,6 +97,7 @@
 !*.py
 !*.ipynb
 !*.png
+!*.jpg
 !**/Pynq/
 **/.ipynb_checkpoints/
 #########
