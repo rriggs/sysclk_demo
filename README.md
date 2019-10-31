@@ -26,3 +26,6 @@ Dropouts occur every 2.89s and last for 16.4ms.
 
 This shows a screen capture of the oscilloscope during sysclk dropout.
 
+The sysclk is divided by 16 and routed through led[0].  The glitches in the
+sysclk signal are visible via the flicker that occurs in the LED every 2.89s.
+

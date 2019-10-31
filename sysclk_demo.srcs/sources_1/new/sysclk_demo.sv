@@ -6,7 +6,11 @@ module sysclk_demo(
     output [0:0] jb
     );
 
-assign led[0] = sysclk;
+reg [3:0] div = 0;
+
+always@ (posedge sysclk) div <= div + 1;
+
+assign led[0] = div[3];
 assign jb[0] = sysclk;
     
 endmodule

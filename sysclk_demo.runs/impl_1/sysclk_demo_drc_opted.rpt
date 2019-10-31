@@ -1,13 +1,13 @@
 Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 ------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
-| Date         : Wed Oct 30 20:25:49 2019
+| Date         : Wed Oct 30 21:34:13 2019
 | Host         : emerald running 64-bit Fedora release 29 (Twenty Nine)
 | Command      : report_drc -file sysclk_demo_drc_opted.rpt -pb sysclk_demo_drc_opted.pb -rpx sysclk_demo_drc_opted.rpx
 | Design       : sysclk_demo
 | Device       : xc7z020clg400-1
 | Speed File   : -1
-| Design State : Fully Placed
+| Design State : Synthesized
 ------------------------------------------------------------------------------------------------------------------------
 
 Report DRC
