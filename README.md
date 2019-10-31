@@ -22,7 +22,7 @@ to 5ms.
 
 Dropouts occur every 2.89s and last for 16.4ms.
 
-![Oscilloscope screenshot](sds2204x-2019-10-30T20:40:29-05:00.png)
+![Oscilloscope screenshot](sds2204x-2019-10-30.png)
 
 This shows a screen capture of the oscilloscope during sysclk dropout.
 
